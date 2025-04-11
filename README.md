@@ -17,7 +17,7 @@
 <h2>𓀎 Qualifications and Certifications </h2>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Okami101.png" alt="Your Image Badge" />
-    <p><span color="green">Google Cybersecurity Professional Certificate</span> [Currently Studying, Expected -> end of may 2025]</p>
+    <p color="green" ><span color="green">Google Cybersecurity Professional Certificate</span> [Currently Studying, Expected -> end of may 2025]</p>
     <p>Comptia Security+ [Next goal]</p>
 </p>
 
