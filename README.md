@@ -6,11 +6,9 @@
 
  <h2>𓀅 Languages</h2>
  <p align="center">
-  <div display="flex">
    <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
    <img  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  </div>
  </p>
 <p align="center">
    <i class="devicon-python-plain"></i>
