@@ -3,7 +3,7 @@
 </p>
 <hr>
 <p align="center">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2562345" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Okami101.png" alt="Your Image Badge" />
     <img src="https://github.com/user-attachments/assets/f22a5891-5141-41f6-8178-3828e4e1b76a" alt='wtf'>
 </p>
 
