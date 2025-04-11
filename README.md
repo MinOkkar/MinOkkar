@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Min Okkar</h1>
- <h2>➾ I’m currently learning Cybersecurity, Linux, Python, webdevelopment</h2>
+ <p style="font-weight:bold;">➾ I’m currently learning Cybersecurity, Linux, Python, webdevelopment</p>
  <h2>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinOkkar&theme=dark&hide_langs_below=1" alt="alt">
