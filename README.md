@@ -6,7 +6,7 @@
 
  <h2>𓀅 Languages</h2>
 <p align="center">
-   
+   <i class="devicon-python-plain"></i>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinOkkar&theme=dark&hide_langs_below=1" alt="alt">
 </p>
 <hr>
