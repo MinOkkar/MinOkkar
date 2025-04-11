@@ -5,10 +5,10 @@
  <p>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</p>
 
  <h2>𓀅 Languages</h2>
- <div  display="flex">
-<img lign="center" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img  lign="center" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img lign="center" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+ <div display="flex">
+<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
 <p align="center">
