@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Okkar Min Maung](https://github.com/MinOkkar/MinOkkar)</h1>
+<h1 align="center">Hi 👋, I'm <a herf="https://github.com/MinOkkar">Min Okkar</a></h1>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinOkkar&theme=dark&hide_langs_below=1" alt="alt">
 </p>
