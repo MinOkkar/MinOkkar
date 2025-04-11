@@ -5,7 +5,7 @@
  <p>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</p>
 
  <h2>𓀅 Languages</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <p align="center">
    <i class="devicon-python-plain"></i>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinOkkar&theme=dark&hide_langs_below=1" alt="alt">
