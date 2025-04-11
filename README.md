@@ -14,6 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinOkkar&theme=dark&hide_langs_below=1" alt="alt">
 </p>
 <hr>
+<h2>𓀎 Qualifications and Certifications </h2>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Okami101.png" alt="Your Image Badge" />
 </p>
