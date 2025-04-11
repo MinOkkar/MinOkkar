@@ -17,7 +17,5 @@
 <hr>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Okami101.png" alt="Your Image Badge" />
-    <br>
-    <img src="https://github.com/user-attachments/assets/f22a5891-5141-41f6-8178-3828e4e1b76a" alt='wtf'>
 </p>
 
