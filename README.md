@@ -1,8 +1,7 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <h1 align="center">𓀀 Hi, I'm Min Okkar 𓀀</h1>
  <p>➾ I’m currently learning Cybersecurity, Linux, Python, webdevelopment</p>
  <p>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</p>
+  <p>➾ 2025 Goals: Getting hand on experiences and pursuing certificates </p>
 
  <h2>𓀅 Languages</h2>
  <p align="center">
