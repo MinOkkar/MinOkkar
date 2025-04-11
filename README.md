@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Min Okkar</h1>
+<h1 align="center">𓀀 Hi, I'm Min Okkar</h1>
  <p>➾ I’m currently learning Cybersecurity, Linux, Python, webdevelopment</p>
  <p>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</p>
 <p align="center">
