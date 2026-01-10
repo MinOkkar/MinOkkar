@@ -1,7 +1,6 @@
 <h1 align="center">𓀀 Hi, I'm Min Okkar 𓀀</h1>
  <p>➾ I’m currently learning Cybersecurity, Linux, Python, webdevelopment</p>
  <p>➾ I’m currently studying ComputerScience in Rangsit University, Thailand</p>
-  <p>➾ 2025 Goals: Getting hand on experiences and pursuing certificates </p>
 
  <h2>𓀅 Languages</h2>
  <p align="center">
@@ -17,7 +16,6 @@
 <h2>𓀎 Qualifications and Certifications </h2>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Okami101.png" alt="Your Image Badge" />
-    <p>✭Google Cybersecurity Professional Certificate [Currently Studying, Expected -> end of may 2025]</p>
-    <p>✭Comptia Security+ [Next goal]</p>
+    <p>✭Google Cybersecurity Professional Certificate | PJPT </p>
 </p>
 
