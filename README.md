@@ -5,4 +5,5 @@
 <p>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/171379254" alt="PJPT" style="width:10%; height:auto;" />
 <img src="https://credential.knightsquad.academy/cert_badges/kwapta.png" alt="kWAPTA" style="width:10%; height:auto;" />
+<img src="https://cyberwarfare.live/wp-content/uploads/2025/11/WEBRTA.webp" alt="WEB-RTA" style="width:10%; height:auto;" /style="width:10%; height:auto;">
 </p>
