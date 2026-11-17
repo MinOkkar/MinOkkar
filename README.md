@@ -6,4 +6,5 @@
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/171379254" alt="PJPT" style="width:10%; height:auto;" />
 <img src="https://credential.knightsquad.academy/cert_badges/kwapta.png" alt="kWAPTA" style="width:10%; height:auto;" />
 <img src="https://cwl-main-website.s3.us-east-1.amazonaws.com/images/WEBRTA-desktop.webp" alt="WEB-RTA" style="width:10%; height:auto;" /style="width:10%; height:auto;">
+<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="sec+" style="width:10%; height:auto;">
 </p>
